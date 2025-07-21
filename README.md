@@ -37,10 +37,6 @@ git clone https://github.com/yourusername/Analysis-of-the-COVID-19.git
 
 4️⃣ Execute the queries to explore and analyze the COVID-19 data.
 
-### 📸 Screenshots
-
-*(Add screenshots of your SQL queries and sample outputs here for visual reference.)*
-
 ### 📚 Dataset
 
 You can use the **Our World in Data COVID-19 dataset** or any publicly available COVID-19 dataset for practice.
